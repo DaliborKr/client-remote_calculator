@@ -1,0 +1,6 @@
+HELLO
+SOLVE (+ 4 2)
+SOLVE (- 4 2)
+EVLOS (* 4 2)
+SOLVE (/ 4 2)
+BYE
